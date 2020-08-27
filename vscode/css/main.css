@@ -15,6 +15,11 @@ html {
   color: #222;
   font-size: 12px;
   line-height: 1.4;
+  background-color: antiquewhite;
+}
+
+ul {
+  padding-inline-start: 10px;
 }
 
 /*
@@ -262,9 +267,9 @@ textarea {
 }
 
 .keyboard-shortcuts {
-  padding: 60px 25px 30px 0;
+  padding: 50px 10px 10px 0;
   column-count: 4;
-  column-gap: 0px;
+  column-gap: 8px;
 }
 
 .keyboard-shortcuts .shortcuts-header {
@@ -284,8 +289,16 @@ textarea {
 }
 
 .keyboard-shortcuts .shortcuts-list {
-  margin-top: 20px;
+  margin-top: 8px;
   list-style: none;
+}
+
+.keyboard-shortcuts .shortcuts-list--vscode {
+  background-color: #3179c573;
+}
+
+.keyboard-shortcuts .shortcuts-list--vscode .shortcuts-item:nth-child(even) {
+  background-color: #006fe857;
 }
 
 .keyboard-shortcuts .shortcuts-list:first-child {
@@ -302,14 +315,16 @@ textarea {
 .keyboard-shortcuts .shortcuts-item {
   line-height: 1.8;
   overflow: hidden;
+  padding-left: 2px;
 }
 
 .keyboard-shortcuts .shortcuts-item:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: rgb(215 123 0 / 20%);
 }
 
 .keyboard-shortcuts .shortcuts-item.strong {
-  color: red;
+  color: #c90000;
+  font-weight: bold;
 }
 
 .keyboard-shortcuts .shortcuts-name {
