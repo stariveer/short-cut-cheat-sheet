@@ -1,7 +1,7 @@
 window.data = window.data || { list: [] };
 
 var block = {
-  title: "文件管理",
+  title: "vscode 文件管理",
   group: "vscode",
   items: [
     {

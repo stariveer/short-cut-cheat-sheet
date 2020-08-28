@@ -1,7 +1,7 @@
 window.data = window.data || { list: [] };
 
 var block = {
-  title: "导航",
+  title: "vscode 导航",
   group: "vscode",
   items: [
     {

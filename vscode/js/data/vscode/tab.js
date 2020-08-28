@@ -1,21 +1,21 @@
 window.data = window.data || { list: [] };
 
 var block = {
-  title: "标签管理",
+  title: "vscode 标签管理",
   group: "vscode",
   items: [
-    {
-      name: "⌘W",
-      desc: "关闭标签",
-      strong: false
-    },
+    // {
+    //   name: "⌘W",
+    //   desc: "关闭标签",
+    //   strong: false
+    // },
     {
       name: "⌘K F",
       desc: "关闭文件夹",
       strong: false
     },
     {
-      name: "⌘",
+      name: "⌘\\ ",
       desc: "拆分标签",
       strong: false
     },
@@ -25,12 +25,12 @@ var block = {
       strong: false
     },
     {
-      name: "⌘K ⌘← / ⌘K ⌘→",
+      name: "⌘K ⌘ ← / ⌘K ⌘ →",
       desc: "聚焦到上一个/下一个标签组",
       strong: false
     },
     {
-      name: "⌘K ⌘⇧← / ⌘K ⌘⇧→",
+      name: "⌘K ⌘⇧ ← / ⌘K ⌘⇧ →",
       desc: "向左/向右移动标签组",
       strong: false
     },

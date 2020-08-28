@@ -25,12 +25,12 @@ var block = {
       strong: true
     },
     {
-      name: "⌘K ⌘← / ⌘K ⌘→",
+      name: "⌘K ⌘ ← / ⌘K ⌘ →",
       desc: "聚焦到上一个/下一个标签组",
       strong: false
     },
     {
-      name: "⌘K ⌘⇧← / ⌘K ⌘⇧→",
+      name: "⌘K ⌘⇧ ← / ⌘K ⌘⇧ →",
       desc: "向左/向右移动标签组",
       strong: false
     },

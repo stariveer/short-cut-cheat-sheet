@@ -1,7 +1,7 @@
 window.data = window.data || { list: [] };
 
 var block = {
-  title: "多光标和选择",
+  title: "vscode 多光标和选择",
   group: "vscode",
   items: [
     {
@@ -40,12 +40,12 @@ var block = {
     //   strong: false
     // },
     {
-      name: "⌘⇧⌃→",
+      name: "⌘⇧⌃ →",
       desc: "扩大选择",
       strong: true
     },
     {
-      name: "⌘⇧⌃←",
+      name: "⌘⇧⌃ ←",
       desc: "缩小选择",
       strong: true
     },
@@ -60,7 +60,7 @@ var block = {
       strong: true
     },
     // {
-    //   name: "⌘⇧⌥← / ⌘⇧⌥→",
+    //   name: "⌘⇧⌥ ← / ⌘⇧⌥ →",
     //   desc: "列 (框) 向左/右选择",
     //   strong: false
     // },
