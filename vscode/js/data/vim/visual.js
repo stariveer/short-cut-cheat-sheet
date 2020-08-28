@@ -20,7 +20,7 @@ var block = {
       strong: false
     },
     {
-      name: "Ctrl + v",
+      name: "⌃v",
       desc: "进入可视化模式(矩阵选择)",
       strong: false
     },

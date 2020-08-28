@@ -90,7 +90,7 @@ var block = {
       strong: false
     },
     {
-      name: "Ctrl + r",
+      name: "⌃r",
       desc: "重复",
       strong: false
     },

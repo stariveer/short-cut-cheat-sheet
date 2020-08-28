@@ -5,62 +5,52 @@ var block = {
   group: "wolai",
   items: [
     {
-      name: "cmd/ctrl + \\ ",
+      name: "⌘\\ ",
       desc: "收起或打开侧边栏",
       strong: false
     },
     {
-      name: "cmd/ctrl + S",
+      name: "⌘S",
       desc: "保存更改（不按也会随时保存）",
       strong: false
     },
     {
-      name: "cmd/ctrl + [",
+      name: "⌘[",
       desc: "返回上一页（后退）",
       strong: false
     },
     {
-      name: "cmd/ctrl + ]",
+      name: "⌘]",
       desc: "期望下一页（前进）",
       strong: false
     },
     {
-      name: "cmd/ctrl + P",
+      name: "⌘P",
       desc: "显示/关闭搜索 和最近浏览页面列表",
       strong: false
     },
     {
-      name: "cmd/ctrl + shift + P",
+      name: "⌘⇧P",
       desc: "显示/关闭页面关系图",
       strong: false
     },
     {
-      name: "ctrl + cmd + space",
+      name: "⌘⌃SPACE",
       desc: "打开Emoji表情窗口 (Mac)",
       strong: false
     },
     {
-      name: "win + . 或者 win + ;",
-      desc: "打开Emoji表情窗口 (Windows)",
-      strong: false
-    },
-    {
-      name: "cmd + opt + G",
+      name: "⌘⌥G",
       desc: "打开/关闭Good Night模式 (Mac)",
       strong: false
     },
     {
-      name: "ctrl + alt + G ",
-      desc: "打开/关闭Good Night模式 (Windows)",
-      strong: false
-    },
-    {
-      name: "cmd/ctrl + shift + U",
+      name: "⌘⇧U",
       desc: "显示/隐藏块结构虚线框",
       strong: false
     },
     {
-      name: "cmd/ctrl + shift + L",
+      name: "⌘⇧L",
       desc: "启用/关闭悬浮目录",
       strong: false
     }

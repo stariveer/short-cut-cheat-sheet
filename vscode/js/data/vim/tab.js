@@ -10,7 +10,7 @@ var block = {
       strong: false
     },
     {
-      name: "Ctrl + wT",
+      name: "⌃wT",
       desc: "将窗口变成标签",
       strong: false
     },

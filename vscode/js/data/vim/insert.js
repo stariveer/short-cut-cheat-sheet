@@ -40,37 +40,37 @@ var block = {
       strong: false
     },
     {
-      name: "Ctrl + h",
+      name: "⌃h",
       desc: "删除光标前的字符",
       strong: false
     },
     {
-      name: "Ctrl + w",
+      name: "⌃w",
       desc: "删除光标前的单词",
       strong: false
     },
     {
-      name: "Ctrl + j",
+      name: "⌃j",
       desc: "在插入模式下开始新行",
       strong: false
     },
     {
-      name: "Ctrl + t",
+      name: "⌃t",
       desc: "在插入模式下将整行缩进(右移)一次",
       strong: false
     },
     {
-      name: "Ctrl + d",
+      name: "⌃d",
       desc: "在插入模式下将整行反向缩进(左移)一次",
       strong: false
     },
     {
-      name: "Ctrl + n",
+      name: "⌃n",
       desc: "在插入模式下在光标之后插入(自动完成)",
       strong: false
     },
     {
-      name: "Ctrl + p",
+      name: "⌃p",
       desc: "在插入模式下在光标之前插入(自动完成)",
       strong: false
     },
