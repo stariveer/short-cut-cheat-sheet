@@ -10,6 +10,11 @@ var block = {
       strong: false
     },
     {
+      name: "⌘→ / ⌘ ←",
+      desc: "左移/右移显示器",
+      strong: false
+    },
+    {
       name: "⌥Space",
       desc: "打开网易云词典",
       strong: false

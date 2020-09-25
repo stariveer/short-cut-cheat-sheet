@@ -65,12 +65,12 @@ var block = {
       strong: false
     },
     {
-      name: "⌘⌥[ / ⌘⌥",
+      name: "⌘⌥[ / ⌘⌥]",
       desc: "折叠/展开区域",
       strong: true
     },
     {
-      name: "⌘K ⌘[ / ⌘K ⌘",
+      name: "⌘K ⌘[ / ⌘K ⌘]",
       desc: "折叠/展开所有子区域",
       strong: true
     },
